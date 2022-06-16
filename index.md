@@ -17,3 +17,9 @@ const number = 20;
 number = 22;
 // this throws an Error
 ```
+
+### New task list
+
+- [x] Eat at 9:00am
+- [ ] Code at 9:30am
+- [ ] Go to sleep at 9:30pm
